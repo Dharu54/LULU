@@ -1,5 +1,5 @@
-{
-    "name": "suguv1",
+	{
+    "name": "Bottus",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -16,9 +16,9 @@
             "required": false
         },
         "HANDLERS": {
-            "description": "enter prefix.",
+            "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or LyFE. Using keyword like LyFE will broke list and help command",
             "required": true,
-            "value": "^[.]"
+            "value": "."
         },
         "SEND_READ": {
             "description": "send read receipt.",
@@ -64,7 +64,7 @@
             "value": "OK bie"
         },
         "REMOVEBG_KEY": {
-            "description": "Get your key from remove.bg",
+            "description": "key from remove.bg",
             "required": false,
             "value": "null"
         },
@@ -74,10 +74,14 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🍃AJU💖,AJMAL011"
+            "value": "🥰,lyfe00011"
         },
-        "DISABLE_BOT":{
-         "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
+        "DISABLE_BOT": {
+            "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
+            "value": "null"
+        },
+        "FIND_API_KEY": {
+            "description": "key from https://dashboard.audd.io/",
             "value": "null"
         }
     },
@@ -92,4 +96,3 @@
         }
     ]
 }
-
