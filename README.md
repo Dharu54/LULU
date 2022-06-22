@@ -25,7 +25,7 @@
 
 1.[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@GAMING-WITHWI40/baileys-qr#index.js)
 
-2.[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Ajmal342/Suguv1&template=https://github.com/Ajmal342/Suguv1)  
+2.[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Dharu54/LULU&template=https://github.com/Dharu54/LULU)  
    
    <br>
    <a href="https://chat.whatsapp.com/GcwhD3dLUxp1fjWzwYkY0u"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
